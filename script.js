@@ -1,4 +1,3 @@
-//your code here
 document.addEventListener("DOMContentLoaded", function() {
     const imageContainer = document.getElementById("image-container");
     const resetButton = document.getElementById("reset");
